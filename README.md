@@ -1,4 +1,4 @@
-# Building Baseball Data Visualizations with Python
+# Building Baseball Data Visualization with Python
 
 ```
 Retrosheet Notice:
